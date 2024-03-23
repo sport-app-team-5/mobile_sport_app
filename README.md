@@ -1,4 +1,4 @@
-#Iniciar el proyecto 
+# Iniciar el proyecto 
 ```
 ionic serve
 ```
