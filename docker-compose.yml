@@ -4,4 +4,3 @@ services:
   ionic:
     build: .
     container_name: sport-app
-    restart: unless-stopped
