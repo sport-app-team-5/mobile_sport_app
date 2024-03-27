@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  ionic:
+    build: .
+    container_name: sport-app
+    restart: unless-stopped
