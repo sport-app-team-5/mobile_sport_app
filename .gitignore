@@ -334,3 +334,4 @@ fabric.properties
 .idea/**/azureSettings.xml
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,webstorm,node,angular,ionic3
+android/
