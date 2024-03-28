@@ -1,0 +1,10 @@
+node_modules/
+.angular/
+www/
+android/
+.gitignore
+Dockerfile
+docker-compose.yml
+README.md
+.editorconfig
+.dockerignore
